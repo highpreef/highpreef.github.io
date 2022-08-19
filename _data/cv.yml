@@ -17,16 +17,16 @@
       description:
         - <b>Results:</b> First Class (1:1) with Honours [<a href="https://drive.google.com/file/d/1esjobZPDUT7oVnymn0YQAqLcbJox4Q0A/view?usp=sharing">transcript</a>].
         - <b>Master's Dissertation:</b>
-        - title: <b>Awards:</b>.
+        - title: <b>Awards:</b>
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - 5th Year Electronics and Computer Science Class Medal.
+            - 3rd Year Electronics and Electrical Engineering Class Medal.
+    - title: International Baccalaureate
+      institution: St. Dominics International School, Lisbon, Portugal
+      year: 2009-2017
       description:
-        - Description 1.
-        - Description 2.
+        - Total of 39/45 (top 7% worldwide) points.
+        - Mathematics HL, Chemistry HL, Biology HL, Spanish AB Initio, English Language and Literature SL, Economics SL..
 
 - title: Experience
   type: time_table
