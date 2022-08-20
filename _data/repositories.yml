@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - highpreef
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - highpreef/Ocean_Pollution_Mapping_Forecasting
+  - highpreef/LTE-M_Edge_Sensor
+  - highpreef/HDL_Microprocessor
+  - highpreef/RISC_Assembler
+  - highpreef/Spell-Checker
+  - highpreef/Cache-Simulator
+  - highpreef/Snake-Game
+  - highpreef/ILP
+  - highpreef/Ping-C

@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching Experience
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+#### The University of Edinburgh
+Acted as a lab demonstrated for the undergraduate courses:
+- [Foundations of Data Science (INFR08030)](http://www.drps.ed.ac.uk/20-21/dpt/cxinfr08030.htm) instructed by Kobi Gal and David Sterratt
+- [Software Engineering and Professional Practice (INFR08032)](http://www.drps.ed.ac.uk/20-21/dpt/cxinfr08032.htm) instructed by Cristina Alexandru
